@@ -1,0 +1,25 @@
+.c1{
+
+  width: 25vw;
+  height: 40vh;
+  background: green;
+  border-radius: 10px;
+  margin-bottom: 5%;
+}
+img{
+  width: 100%;
+  height: 70%;
+  border-radius: 5px;
+
+
+}
+.mainDiv{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+body{
+  text-align:center;
+
+  /* background: red; */
+}
