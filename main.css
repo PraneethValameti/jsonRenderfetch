@@ -1,10 +1,11 @@
 .c1{
 
-  width: 25vw;
-  height: 40vh;
-  background: green;
+  width: 20vw;
+  height: 50vh;
+  /* background: green; */
   border-radius: 10px;
   margin-bottom: 5%;
+  box-shadow: 0px 0px 10px 4px #DCE3E3;
 }
 img{
   width: 100%;
@@ -15,8 +16,9 @@ img{
 }
 .mainDiv{
   display: flex;
-  justify-content: space-between;
+  justify-content:space-around;
   flex-wrap: wrap;
+  text-align:center;
 }
 body{
   text-align:center;
